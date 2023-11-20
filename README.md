@@ -7,6 +7,9 @@ Merci pour votre visite! :)
 - [Curriculum vitae FR](Maxime_Roy_FR.pdf)
 - [Resume EN](Maxime_Roy_EN.pdf)
 
+## Formation
+- [AEC Programmation d'applications](https://www.cegepsherbrooke.qc.ca/fr/formation-continue/formation-pour-adultes/aec/programmation-applications)
+
 ## Profils
 - [GitHub](https://github.com/Mousetrap1147)
 - [Linkedin](https://www.linkedin.com/in/maxime-roy-)
