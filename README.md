@@ -18,7 +18,7 @@ Merci pour votre visite! :)
 ### Application web
 - [TechGadget](https://techgadgetcoop.netlify.app/) - Projet final pour le cours 420-PD1-SH Projet intégrateur.
     - Collaborateurs : Maxime Dupont et Charles Fortin-Dion
-    - Connection admin : [mozart@example.com ; mozart]
+    - Utilisateur admin : [mozart@example.com ; mozart]
 ### Jeu vidéo
 - [Towers Strike Back](https://itch.io/jam/gmtk-2023/rate/2160615) - Soumission au GMTK Game Jam 2023 
     - Collaborateur : Sathalom
