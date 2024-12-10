@@ -8,19 +8,20 @@ environnements et de collaborer efficacement. Je suis prêt et hâtif d'entrepre
 
 
 COMPÉTENCES TECHNIQUES
-+---------------------------------------+---------------------------+---------------+
-Git                     |   3 ans
-Vue.js et Vuetify       |   2 ans
-Node.js et Express.js   |   2 ans
-JavaScript              |   3 ans
-C++                     |   3 ans
-C#                      |   1 ans
-Java et Android Studio  |   2 ans
-PHP                     |   3 ans
-HTML et CSS             |   3 ans
-MsSQL                   |   3 ans
-PostgreSQL              |   2 an
-+---------------------------------------+---------------------------+---------------+
++-----------------------+-----------+
+Git                     |   3 ans   |
+Vue.js et Vuetify       |   2 ans   |
+Node.js et Express.js   |   2 ans   |
+JavaScript              |   3 ans   |
+C++                     |   3 ans   |
+Godot                   |   1 an    |
+C#                      |   1 ans   |
+Java et Android Studio  |   2 ans   |
+PHP                     |   3 ans   |
+HTML et CSS             |   3 ans   |
+MsSQL                   |   3 ans   |
+PostgreSQL              |   2 an    |
++-----------------------+-----------+
 
 
 FORMATION
