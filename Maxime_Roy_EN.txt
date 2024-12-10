@@ -1,0 +1,59 @@
+Maxime Roy
+maxime_roy_@outlook.com                 |   819-993-1101            |   https://www.github.com/Mousetrap1147
+Sherbrooke, QC, CA
+
+In perpetual pursuit of new knowledge and stimulating challenges, I am driven by the exploration of innovative 
+and creative solutions. My sense of communication allows me to adapt quickly to various environments and 
+collaborate effectively. I am ready and eager to undertake new projects.
+
+TECHNICAL SKILLS
++-----------------------+-----------+
+Godot                   |   1 year  |
+Git                     |   3 years |
+Vue.js & Vuetify        |   2 years |
+Node.js & Express.js    |   2 years |
+JavaScript              |   3 years |
+C++                     |   7 years |
+C#                      |   1 years |
+Java & Android Studio   |   2 years |
+PHP                     |   3 years |
+HTML & CSS              |   3 years |
+MsSQL                   |   3 years |
+PostgreSQL              |   2 years |
++-----------------------+-----------+
+
+
+PROGRAMMATION CERTIFICATION
++---------------------------------------+---------------------------+---------------+
+AEC Programmation d'applications        |  Cégep de Sherbrooke      |   2022 - 2024 |
++---------------------------------------+---------------------------+---------------+
+
+
+PROFESSIONAL EXPERIENCE
++---------------------------------------+---------------------------+---------------+
+Truck driver                            |   Moisson Estrie          |   2024        |
+Programmer & Consultant (internship)    |   Phil électronique inc.  |   2023        |
+E-Sport Coach (Rocket League)           |   Cégep de Sherbrooke     |   2021 - 2022 |
+Board Game Facilitator                  |   Montagu Pub Ludique     |   2019 - 2022 |
+Day Camp Counselor                      |   Loisirs Fleuri-Est      |   2011 - 2020 |
+Instructor                              |   McDonald's              |   2015 - 2017 |
++---------------------------------------+---------------------------+---------------+
+
+
+GAMEJAMS SUBMISSIONS
++---------------------------------------+---------------------------+-----------------------------------------------+
+[TBD]                                   |   GMTK Patreon Jam 2024   |                                               |
+Pyramid Worlds                          |   GMTK Game Jam 2024      |   https://itch.io/jam/gmtk-2024/rate/2911047  |
+Towers Strike Back                      |   GMTK Game Jam 2023      |   https://itch.io/jam/gmtk-2023/rate/2160615  |
++---------------------------------------+---------------------------+-----------------------------------------------+
+
+
+IMPROVISATION SHOW
++---------------------------------------+--------------------------------------------------------+--------------+
+Copresident, Chief referee              |   Le Shack                                             |  2018 - 2024 |
+Show host, Captain, Player              |   L'Abordage Sherbrooke                                |  2016 - 2024 |
+Player                                  |   Ligue Universitaire d'lmprovisation de Sherbrooke    |  2019 - 2023 |
+Captain duo, Plaayer                    |   LICQ - Ligue d'lmprovisation du Centre du Québec     |  2017 - 2019 |
+Coach                                   |   Ecole Internationale Du Phare                        |  2018        |
+Invited referee, Musician, Captain      |   Ligue d'lmprovisation du Cégep de Sherbrooke         |  2012 - 2019 |
++---------------------------------------+--------------------------------------------------------+--------------+
