@@ -20,14 +20,8 @@ Java et Android Studio  |   2 ans   |
 PHP                     |   3 ans   |
 HTML et CSS             |   3 ans   |
 MsSQL                   |   3 ans   |
-PostgreSQL              |   2 an    |
+PostgreSQL              |   2 ans   |
 +-----------------------+-----------+
-
-
-FORMATION
-+---------------------------------------+---------------------------+---------------+
-AEC Programmation d'applications        |  Cégep de Sherbrooke      |   2022 - 2024 |
-+---------------------------------------+---------------------------+---------------+
 
 
 CERTIFICATION EN PROGRAMMATION
@@ -56,11 +50,11 @@ Towers Strike Back                      |   GMTK Game Jam 2023      |   https://
 
 
 IMPLICATIONS SPECTACLES D'IMPROVISATION
-+--------------------------------------+--------------------------------------------------------+--------------+
++---------------------------------------+-------------------------------------------------------+--------------+
 Coprésidence (CA), Arbitre en chef      |   Le Shack                                            |  2018 - 2024 |
 Animateur, Capitaine, Interprète        |   L'Abordage Sherbrooke                               |  2016 - 2024 |
 Interprète                              |   Ligue Universitaire d'lmprovisation de Sherbrooke   |  2019 - 2023 |
 Noyau de capitaines, Interprète         |   LICQ - Ligue d'lmprovisation du Centre du Québec    |  2017 - 2019 |
 Entraineur                              |   Ecole Internationale Du Phare                       |  2018        |
 Arbitre invité, Musicien, Capitaine     |   Ligue d'lmprovisation du Cégep de Sherbrooke        |  2012 - 2019 |
-+--------------------------------------+--------------------------------------------------------+--------------+
++---------------------------------------+-------------------------------------------------------+--------------+
