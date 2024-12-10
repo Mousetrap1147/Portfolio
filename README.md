@@ -1,10 +1,15 @@
 # Mon portfolio
-Ce _repo_ contient mon curriculum vitae ainsi que les liens vers mes différents profils puis vers mes projets.
+[FR] Ce _repo_ contient mon curriculum vitae ainsi que les liens vers mes différents profils puis vers mes projets.
 
 Merci pour votre visite! :)
 
+[EN]This _repo_ contains my resume and links to my profiles and projects.
+
+Thank you for visiting! :)
+
 ## Documents
 - [Curriculum vitae FR](Maxime_Roy_FR.txt)
+- [Resume EN](Maxime_Roy_EN.txt)
 
 ## Formation
 - [AEC Programmation d'applications](https://www.cegepsherbrooke.qc.ca/fr/formation-continue/formation-pour-adultes/aec/programmation-applications)
