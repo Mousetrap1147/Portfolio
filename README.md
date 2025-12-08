@@ -19,7 +19,9 @@ Thank you for visiting! :)
 - [Linkedin](https://www.linkedin.com/in/maxime-roy-)
 
 ## Projets
-- [TBD](https://itch.io/jam/gmtk-patreon-2024) - Soumission au GMTK Patreon Game Jam 2024 (projet en cours)
+- [prévu en janvier 2026]([https://itch.io/jam/gmtk-patreon-2024](https://www.patreon.com/posts/gmtk-game-jam-126935877)) - Soumission au GMTK Patreon Game Jam 202
+- [Wizword](https://sathalom.itch.io/wizword) - Soumission au GMTK Game Jam 2025
+- [Class Warfare: The Troublemaker](https://sathalom.itch.io/class-warfare-the-troublemaker) - Soumission au GMTK Patreon Game Jam 2024
 - [Pyramid Worlds](https://itch.io/jam/gmtk-2024/rate/2911047) - Soumission au GMTK Game Jam 2024
     - Contribution personnelle : Composition musicale et programmation
     - Collaborateurs : Sathalom, TritorQC et Bruce
